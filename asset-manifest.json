@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JaydipMagan/react-workout-app/static/css/main.0b4e74b4.css",
-    "main.js": "/JaydipMagan/react-workout-app/static/js/main.43cf9cfb.js",
-    "static/js/787.1e62910f.chunk.js": "/JaydipMagan/react-workout-app/static/js/787.1e62910f.chunk.js",
-    "index.html": "/JaydipMagan/react-workout-app/index.html",
-    "main.0b4e74b4.css.map": "/JaydipMagan/react-workout-app/static/css/main.0b4e74b4.css.map",
-    "main.43cf9cfb.js.map": "/JaydipMagan/react-workout-app/static/js/main.43cf9cfb.js.map",
-    "787.1e62910f.chunk.js.map": "/JaydipMagan/react-workout-app/static/js/787.1e62910f.chunk.js.map"
+    "main.css": "/react-workout-app/static/css/main.0b4e74b4.css",
+    "main.js": "/react-workout-app/static/js/main.157e70ba.js",
+    "static/js/787.1e62910f.chunk.js": "/react-workout-app/static/js/787.1e62910f.chunk.js",
+    "index.html": "/react-workout-app/index.html",
+    "main.0b4e74b4.css.map": "/react-workout-app/static/css/main.0b4e74b4.css.map",
+    "main.157e70ba.js.map": "/react-workout-app/static/js/main.157e70ba.js.map",
+    "787.1e62910f.chunk.js.map": "/react-workout-app/static/js/787.1e62910f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.43cf9cfb.js"
+    "static/js/main.157e70ba.js"
   ]
 }
