@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-workout-app/static/css/main.0b4e74b4.css",
-    "main.js": "/react-workout-app/static/js/main.58e48bc9.js",
+    "main.js": "/react-workout-app/static/js/main.d86c71b2.js",
     "static/js/787.1e62910f.chunk.js": "/react-workout-app/static/js/787.1e62910f.chunk.js",
     "index.html": "/react-workout-app/index.html",
     "main.0b4e74b4.css.map": "/react-workout-app/static/css/main.0b4e74b4.css.map",
-    "main.58e48bc9.js.map": "/react-workout-app/static/js/main.58e48bc9.js.map",
+    "main.d86c71b2.js.map": "/react-workout-app/static/js/main.d86c71b2.js.map",
     "787.1e62910f.chunk.js.map": "/react-workout-app/static/js/787.1e62910f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.58e48bc9.js"
+    "static/js/main.d86c71b2.js"
   ]
 }
